@@ -16,6 +16,7 @@ These lists are composed of projects that publicly announced their interest in u
 + [MelonPort](https://melon.network/)
 + [OpenANX](https://www.openanx.org/en)
 + [Request Network](https://blog.request.network/blockchain-bricks-request-is-built-upon-0x-civic-and-aragon-3aaf68390221)
++ [State of the DApps](https://www.stateofthedapps.com/tagged/0x/) maintains a full catalog of DApps that use the 0x protocol.​
 
 ### List of relayers that will be (or are) using the 0x protocol
 
